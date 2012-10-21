@@ -1,4 +1,4 @@
-{base_string, "POST&https%3A%2F%2Fphotos.example.net%2Frequest_token&oauth_consumer_key%3Ddpf43f3p2l4k3l03%26oauth_nonce%3Dhsu94j3884jdopsl%26oauth_signature_method%3DPLAINTEXT%26oauth_timestamp%3D1191242090%26oauth_version%3D1.0"}.
+{base_string, "POST&https%3a%2f%2fphotos.example.net%2frequest_token&oauth_consumer_key%3ddpf43f3p2l4k3l03%26oauth_nonce%3dhsu94j3884jdopsl%26oauth_signature_method%3dPLAINTEXT%26oauth_timestamp%3d1191242090%26oauth_version%3d1.0"}.
 
 {method, "POST"}.
 

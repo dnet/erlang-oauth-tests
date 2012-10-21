@@ -1,4 +1,4 @@
-{base_string, "GET&http%3A%2F%2Fexample.com%2F&n%3Dv"}.
+{base_string, "GET&http%3a%2f%2fexample.com%2f&n%3dv"}.
 
 {method, "GET"}.
 
